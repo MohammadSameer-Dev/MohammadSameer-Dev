@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on bunch of personal projects
 
-- 🌱 I’m currently learning Things I dont Like [JEE}
+- 🌱 I’m currently learning Things I dont Like [JEE]
 
 - 📫 How to reach me   [Discord Profile](https://discordapp.com/users/1302135024380022854)
 
