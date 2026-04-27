@@ -16,7 +16,7 @@
   <a href="https://discordapp.com/users/1302135024380022854" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="mailto:mohammad.sameer@myyahoo.com" target="_blank">
+  <a href="mailto:sameer007nrg@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/mohammad_sameer8" target="_blank">
